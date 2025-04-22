@@ -1,8 +1,21 @@
-# Mouse auto-active
- Simple Python program to show your status as active
-This simple Python program can make your idle status active by constantly moving your mouse around your screen.
+# Mouse Auto Active
 
-To use the program simply copy the code to your preferred Text Editor and install the pyautogui module using the below command.
+This repository contains a Python script that automatically moves the cursor on your computer, simulating continuous mouse movement. The script is designed to keep your system active by preventing the cursor from idling, which can be useful for scenarios where your system may go to sleep or log you out due to inactivity.
 
-<b>For windows-- pip install pyautogui</b> <br>
-<b>For macOs-- pip3 install pyautogui</b> 
+## Features
+
+- Automatically moves the cursor in a set pattern.
+- Can be customized for the movement speed and pattern.
+- Simple and efficient implementation in Python.
+- Lightweight, requiring minimal resources.
+
+## Installation
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/Anuja-jayasinghe/Mouse-auto-active.git
+
+
+Install the required Python libraries:
+pip install pyautogui
